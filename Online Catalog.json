@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "price": "₱2917.67",
+        "image": "img/1.png.webp",
+        "description": "High-quality sound with noise cancellation."
+    },
+    {
+        "id": 2,
+        "name": "Smart Watch",
+        "price": "₱5835.92",
+        "image": "img/2.png.webp",
+        "description": "Track your fitness with this stylish smartwatch."
+    },
+    {
+        "id": 3,
+        "name": "Bluetooth Speaker",
+        "price": "₱1750.37",
+        "image": "img/3.png.webp",
+        "description": "Portable speaker with deep bass."
+    },
+    {
+        "id": 4,
+        "name": "USB-C Hub",
+        "price": "₱1458.54",
+        "image": "img/4.png.webp",
+        "description": "Multi-port USB-C hub for all your devices."
+    },
+    {
+        "id": 5,
+        "name": "Wireless Keyboard",
+        "price": "₱2334.02",
+        "image": "img/5.png.webp",
+        "description": "Compact and wireless keyboard."
+    },
+    {
+        "id": 6,
+        "name": "Noise Cancelling Headphone",
+        "price": "₱3501.32",
+        "image": "img/6.png.webp",
+        "description": "Over-ear headphones with noise cancellation."
+    },
+    {
+        "id": 7,
+        "name": "Digital Notebook",
+        "price": "₱1516.91",
+        "image": "img/7.png.webp",
+        "description": "E-ink notebook for paperless writing."
+    },
+    {
+        "id": 8,
+        "name": "Wireless Mouse",
+        "price": "₱1108.35",
+        "image": "img/8.png.webp",
+        "description": "Ergonomic mouse with long battery life."
+    },
+    {
+        "id": 9,
+        "name": "4K Monitor",
+        "price": " ₱22,499.00",
+        "image": "img/9.png.webp",
+        "description": "Stunning visuals and vibrant colors for an immersive viewing experience."
+    },
+    {
+        "id": 10,
+        "name": "Gaming Mouse Pad",
+        "price": "₱899.99",
+        "image": "img/10.png.webp",
+        "description": "Extra-large surface with a smooth finish for optimal gaming performance."
+    }
+]
